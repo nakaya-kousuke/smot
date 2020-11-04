@@ -13,5 +13,6 @@ CarrierWave.configure do |config|
   }
 
   config.fog_directory  = 'smot2020'
-  config.asset_host = 'https://s3-ap-northeast-1.amazonaws.com/smot2020'
+  # config.asset_host = 'https://s3-ap-northeast-1.amazonaws.com/smot2020'
+  config.asset_host = 'https://smot.s3.amazonaws.com'
 end
