@@ -8,6 +8,7 @@ set :application, 'smot'
 # どのリポジトリからアプリをpullするかを指定する
 set :repo_url,  'git@github.com:nakaya-kousuke/smot.git'
 
+# ブランチを指定する
 set :branch, "main"
 
 # バージョンが変わっても共通で参照するディレクトリを指定
