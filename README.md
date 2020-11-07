@@ -28,6 +28,11 @@
 http://52.193.230.41/
 
 ## DEMO
+#### トップページ
+![screencapture-localhost-3000-2020-11-07-15_57_37](https://user-images.githubusercontent.com/63046993/98434450-0eb88100-2113-11eb-8d6b-c7ae55992462.png)
+
+#### 店舗詳細ページ
+![screencapture-localhost-3000-stores-2-2020-11-07-15_57_02](https://user-images.githubusercontent.com/63046993/98434465-44f60080-2113-11eb-8017-7258a226838a.png)
 
 ## 工夫したポイント
 
