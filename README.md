@@ -27,6 +27,12 @@
 ## 本番環境
 http://52.193.230.41/
 
+## テストアカウント
+* メールアドレス<br>
+test@gmail.com
+* パスワード<br>
+test1234
+
 ## DEMO
 #### トップページ
 ![screencapture-localhost-3000-2020-11-07-15_57_37](https://user-images.githubusercontent.com/63046993/98434450-0eb88100-2113-11eb-8d6b-c7ae55992462.png)
